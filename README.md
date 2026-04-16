@@ -7,4 +7,4 @@ Edson Bruno
 Estudante de Desenvolvimento Full Stack e Segurança da Informação
 
 ## Projeto
-Pretendo desenvolver um sistema web de cashback integrado com múltiplas lojas.
+Pretendo desenvolver um sistema web de cashback integrado com múltiplas lojas que funcione de verdade.
